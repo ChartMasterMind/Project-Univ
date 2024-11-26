@@ -4,16 +4,16 @@ Bienvenue dans ce dépôt GitHub où je partage mes projets universitaires en an
 
 ## Contenu  
 
-1. [Régression Linéaire multpile] 
+1. [Régression Linéaire multpile](Machine_Learning/)
 2. [Analyse des Crimes à Los Angeles](Analysis_LA/)
-3. [Econometrie sous R : étude des facteurs influençant l'accés à l'enseignement supérieur]
-4. [Dossier en econometrie sous R]
+3. [Econometrie sous R : étude des facteurs influençant l'accés à l'enseignement supérieur](R/Acces_sup.pdf)
+4. [Dossier en econometrie sous R](R/rapportfinalR[1].pdf)
 
 
 # Projets personnels
 
 Voici quelques projets personnels parallèles à mes études :
 
-1. [Theorie des graph : Création d'un GPS offline grace à l'algorithme de djikstra et OSMnx ]
-2. [data vizualisation des crimes commis en France]
+1. [Theorie des graph : Création d'un GPS offline grace à l'algorithme de djikstra et OSMnx ](Project_perso/GPS_offline.py)
+2. [data vizualisation des crimes commis en France](Project_perso/Analysis_crimes_france.ipynb)
 ---

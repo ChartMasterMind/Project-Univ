@@ -5,7 +5,7 @@ Bienvenue dans ce dépôt GitHub où je partage mes projets universitaires en an
 ## Contenu  
 
 1. [Régression Linéaire multpile] 
-2. [Analyse des Crimes à Los Angeles](Analysis_LA/Crime_data_Analysis2.ipynb)
+2. [Analyse des Crimes à Los Angeles](Analysis_LA/)
 3. [Econometrie sous R : étude des facteurs influençant l'accés à l'enseignement supérieur]
 4. [Dossier en econometrie sous R]
 

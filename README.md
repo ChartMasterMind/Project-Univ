@@ -10,7 +10,7 @@ Bienvenue dans ce dépôt GitHub où je partage mes projets universitaires en an
 4. [Dossier en econometrie sous R]
 
 
-# Projetq personnels
+# Projets personnels
 
 Voici quelques projets personnels parallèles à mes études :
 
